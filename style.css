@@ -1,0 +1,15 @@
+body{
+    background:magenta;
+    
+}
+h1{
+    color:white;
+}
+img:hover{
+    transform: scale(1.2);
+
+}
+img{
+ transition: transform 1s;
+    margin-top:20px;
+}
