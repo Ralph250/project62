@@ -1,15 +1,5 @@
-body{
-    background:magenta;
-    
-}
-h1{
-    color:white;
-}
-img:hover{
-    transform: scale(1.2);
+.i{
+scroll-behavior: smooth;
 
-}
-img{
- transition: transform 1s;
-    margin-top:20px;
+    
 }
